@@ -1,1 +1,0 @@
-# teachablemachine_prueba1
